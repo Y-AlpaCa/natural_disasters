@@ -3,9 +3,9 @@ title: "Number of News and Recorded Natural Disasters"
 author: '220241454'
 date: "2023-05"
 output:
+  html_document: default
   pdf_document: 
     latex_engine: xelatex
-  html_document: default
 always_allow_html: true
 ---
 ```{r, message=FALSE}

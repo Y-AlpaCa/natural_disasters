@@ -1,1 +1,2 @@
-# natural_disasters
+# This project looks into  the relation between the number of disasters and the news coverage percentage, and whether if there is a tendency for some disaster types to receive more news coverage.
+# This project have two data sets: Number of reported natural disasters (source: https://ourworldindata.org/grapher/number-of-natural-disaster-events?time=earliest..latest); News coverage of disasters (source: https://ourworldindata.org/grapher/news-coverage-of-disasters). 

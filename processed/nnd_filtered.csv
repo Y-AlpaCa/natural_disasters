@@ -1,0 +1,640 @@
+"Year","Entity","events_sum"
+1900,"All disasters",6
+1900,"Drought",2
+1900,"Earthquake",1
+1900,"Extreme weather",1
+1900,"Flood",1
+1900,"Other",1
+1901,"All disasters",1
+1901,"Earthquake",1
+1902,"All disasters",10
+1902,"Earthquake",4
+1902,"Extreme weather",1
+1902,"Other",5
+1903,"All disasters",12
+1903,"Drought",1
+1903,"Earthquake",5
+1903,"Extreme weather",2
+1903,"Flood",2
+1903,"Other",2
+1904,"All disasters",4
+1904,"Earthquake",3
+1904,"Extreme weather",1
+1905,"All disasters",8
+1905,"Earthquake",6
+1905,"Extreme weather",1
+1905,"Other",1
+1906,"All disasters",14
+1906,"Drought",2
+1906,"Earthquake",6
+1906,"Extreme weather",3
+1906,"Flood",2
+1906,"Other",1
+1907,"All disasters",2
+1907,"Earthquake",2
+1908,"All disasters",3
+1908,"Earthquake",2
+1908,"Other",1
+1909,"All disasters",15
+1909,"Earthquake",8
+1909,"Extreme weather",5
+1909,"Flood",1
+1909,"Other",1
+1910,"All disasters",52
+1910,"Drought",45
+1910,"Earthquake",4
+1910,"Extreme weather",1
+1910,"Flood",1
+1910,"Other",1
+1911,"All disasters",10
+1911,"Earthquake",5
+1911,"Extreme weather",2
+1911,"Flood",1
+1911,"Other",1
+1912,"All disasters",6
+1912,"Earthquake",1
+1912,"Extreme weather",5
+1913,"All disasters",5
+1913,"Earthquake",4
+1913,"Extreme weather",1
+1914,"All disasters",8
+1914,"Earthquake",6
+1914,"Extreme weather",1
+1914,"Other",1
+1915,"All disasters",7
+1915,"Earthquake",3
+1915,"Extreme weather",2
+1915,"Flood",1
+1915,"Other",1
+1916,"All disasters",3
+1916,"Earthquake",2
+1916,"Extreme weather",1
+1917,"All disasters",7
+1917,"Earthquake",4
+1917,"Extreme weather",2
+1917,"Flood",1
+1918,"All disasters",5
+1918,"Earthquake",3
+1918,"Extreme weather",1
+1919,"All disasters",8
+1919,"Drought",5
+1919,"Extreme weather",2
+1919,"Other",1
+1920,"All disasters",9
+1920,"Drought",2
+1920,"Earthquake",5
+1920,"Extreme weather",1
+1920,"Flood",1
+1921,"All disasters",1
+1921,"Drought",1
+1922,"All disasters",7
+1922,"Earthquake",3
+1922,"Extreme weather",2
+1922,"Other",1
+1923,"All disasters",13
+1923,"Earthquake",6
+1923,"Extreme weather",6
+1923,"Other",1
+1924,"All disasters",8
+1924,"Earthquake",6
+1924,"Extreme weather",2
+1925,"All disasters",12
+1925,"Earthquake",8
+1925,"Extreme weather",3
+1925,"Flood",1
+1926,"All disasters",14
+1926,"Earthquake",1
+1926,"Extreme weather",7
+1926,"Flood",3
+1926,"Other",3
+1927,"All disasters",10
+1927,"Earthquake",4
+1927,"Extreme weather",4
+1927,"Flood",2
+1928,"All disasters",17
+1928,"Drought",1
+1928,"Earthquake",7
+1928,"Extreme weather",7
+1928,"Flood",2
+1929,"All disasters",5
+1929,"Earthquake",2
+1929,"Extreme weather",2
+1930,"All disasters",21
+1930,"Earthquake",15
+1930,"Extreme weather",4
+1930,"Other",2
+1931,"All disasters",23
+1931,"Drought",10
+1931,"Earthquake",6
+1931,"Extreme weather",4
+1931,"Flood",1
+1931,"Other",2
+1932,"All disasters",12
+1932,"Earthquake",6
+1932,"Extreme weather",5
+1932,"Other",1
+1933,"All disasters",15
+1933,"Drought",5
+1933,"Earthquake",5
+1933,"Extreme weather",3
+1933,"Flood",2
+1934,"All disasters",8
+1934,"Earthquake",3
+1934,"Extreme weather",4
+1934,"Other",1
+1935,"All disasters",15
+1935,"Earthquake",7
+1935,"Extreme weather",7
+1935,"Flood",1
+1936,"All disasters",20
+1936,"Earthquake",11
+1936,"Extreme weather",5
+1936,"Flood",1
+1936,"Other",3
+1937,"All disasters",10
+1937,"Earthquake",3
+1937,"Extreme weather",3
+1937,"Flood",2
+1937,"Other",2
+1938,"All disasters",7
+1938,"Earthquake",2
+1938,"Extreme weather",2
+1938,"Flood",2
+1938,"Other",1
+1939,"All disasters",12
+1939,"Earthquake",7
+1939,"Extreme weather",2
+1939,"Flood",2
+1940,"All disasters",56
+1940,"Drought",45
+1940,"Earthquake",7
+1940,"Extreme weather",3
+1940,"Flood",1
+1941,"All disasters",12
+1941,"Earthquake",7
+1941,"Extreme weather",4
+1941,"Other",1
+1942,"All disasters",12
+1942,"Drought",1
+1942,"Earthquake",8
+1942,"Extreme weather",3
+1943,"All disasters",16
+1943,"Drought",1
+1943,"Earthquake",9
+1943,"Extreme weather",3
+1943,"Flood",2
+1943,"Other",1
+1944,"All disasters",14
+1944,"Earthquake",6
+1944,"Extreme weather",5
+1944,"Other",1
+1945,"All disasters",16
+1945,"Earthquake",8
+1945,"Extreme weather",7
+1945,"Other",1
+1946,"All disasters",17
+1946,"Drought",1
+1946,"Earthquake",10
+1946,"Extreme weather",5
+1946,"Other",1
+1947,"All disasters",13
+1947,"Drought",1
+1947,"Earthquake",3
+1947,"Extreme weather",7
+1947,"Flood",1
+1948,"All disasters",25
+1948,"Earthquake",7
+1948,"Extreme weather",10
+1948,"Flood",5
+1948,"Other",3
+1949,"All disasters",21
+1949,"Earthquake",7
+1949,"Extreme weather",8
+1949,"Flood",2
+1949,"Other",3
+1950,"All disasters",26
+1950,"Earthquake",7
+1950,"Extreme weather",7
+1950,"Flood",10
+1950,"Other",2
+1951,"All disasters",31
+1951,"Earthquake",7
+1951,"Extreme weather",11
+1951,"Flood",7
+1951,"Other",6
+1952,"All disasters",29
+1952,"Earthquake",13
+1952,"Extreme weather",9
+1952,"Flood",4
+1952,"Other",3
+1953,"All disasters",36
+1953,"Earthquake",9
+1953,"Extreme weather",11
+1953,"Flood",12
+1953,"Other",4
+1954,"All disasters",33
+1954,"Earthquake",5
+1954,"Extreme weather",10
+1954,"Flood",9
+1954,"Other",9
+1955,"All disasters",32
+1955,"Earthquake",6
+1955,"Extreme weather",19
+1955,"Flood",3
+1955,"Other",4
+1956,"All disasters",36
+1956,"Earthquake",6
+1956,"Extreme weather",14
+1956,"Flood",9
+1956,"Other",6
+1957,"All disasters",28
+1957,"Earthquake",7
+1957,"Extreme weather",9
+1957,"Flood",11
+1957,"Other",1
+1958,"All disasters",24
+1958,"Earthquake",5
+1958,"Extreme weather",13
+1958,"Flood",3
+1958,"Other",3
+1959,"All disasters",35
+1959,"Earthquake",3
+1959,"Extreme weather",16
+1959,"Flood",15
+1959,"Other",1
+1960,"All disasters",39
+1960,"Drought",1
+1960,"Earthquake",8
+1960,"Extreme weather",20
+1960,"Flood",7
+1960,"Other",3
+1961,"All disasters",29
+1961,"Drought",1
+1961,"Earthquake",3
+1961,"Extreme weather",14
+1961,"Flood",8
+1961,"Other",3
+1962,"All disasters",29
+1962,"Earthquake",4
+1962,"Extreme weather",13
+1962,"Flood",8
+1962,"Other",4
+1963,"All disasters",42
+1963,"Drought",2
+1963,"Earthquake",3
+1963,"Extreme weather",21
+1963,"Flood",8
+1963,"Other",8
+1964,"All disasters",60
+1964,"Drought",7
+1964,"Earthquake",7
+1964,"Extreme weather",22
+1964,"Flood",22
+1964,"Other",2
+1965,"All disasters",64
+1965,"Drought",9
+1965,"Earthquake",8
+1965,"Extreme weather",19
+1965,"Flood",19
+1965,"Other",8
+1966,"All disasters",83
+1966,"Drought",11
+1966,"Earthquake",13
+1966,"Extreme weather",27
+1966,"Flood",23
+1966,"Other",8
+1967,"All disasters",77
+1967,"Drought",8
+1967,"Earthquake",15
+1967,"Extreme weather",25
+1967,"Flood",26
+1967,"Other",2
+1968,"All disasters",82
+1968,"Drought",11
+1968,"Earthquake",16
+1968,"Extreme weather",25
+1968,"Flood",20
+1968,"Other",8
+1969,"All disasters",109
+1969,"Drought",55
+1969,"Earthquake",11
+1969,"Extreme weather",25
+1969,"Flood",14
+1969,"Other",3
+1970,"All disasters",76
+1970,"Drought",2
+1970,"Earthquake",12
+1970,"Extreme weather",24
+1970,"Flood",31
+1970,"Other",6
+1971,"All disasters",61
+1971,"Drought",8
+1971,"Earthquake",6
+1971,"Extreme weather",22
+1971,"Flood",15
+1971,"Other",10
+1972,"All disasters",62
+1972,"Drought",8
+1972,"Earthquake",7
+1972,"Extreme weather",26
+1972,"Flood",14
+1972,"Other",7
+1973,"All disasters",71
+1973,"Drought",10
+1973,"Earthquake",8
+1973,"Extreme weather",22
+1973,"Flood",20
+1973,"Other",9
+1974,"All disasters",65
+1974,"Drought",4
+1974,"Earthquake",6
+1974,"Extreme weather",28
+1974,"Flood",17
+1974,"Other",10
+1975,"All disasters",57
+1975,"Earthquake",5
+1975,"Extreme weather",25
+1975,"Flood",16
+1975,"Other",11
+1976,"All disasters",94
+1976,"Drought",15
+1976,"Earthquake",21
+1976,"Extreme weather",30
+1976,"Flood",16
+1976,"Other",11
+1977,"All disasters",114
+1977,"Drought",14
+1977,"Earthquake",14
+1977,"Extreme weather",29
+1977,"Flood",47
+1977,"Other",9
+1978,"All disasters",110
+1978,"Drought",10
+1978,"Earthquake",9
+1978,"Extreme weather",38
+1978,"Flood",47
+1978,"Other",5
+1979,"All disasters",123
+1979,"Drought",21
+1979,"Earthquake",22
+1979,"Extreme weather",30
+1979,"Flood",34
+1979,"Other",15
+1980,"All disasters",178
+1980,"Drought",75
+1980,"Earthquake",17
+1980,"Extreme weather",36
+1980,"Flood",39
+1980,"Other",10
+1981,"All disasters",155
+1981,"Drought",41
+1981,"Earthquake",15
+1981,"Extreme weather",47
+1981,"Flood",39
+1981,"Other",11
+1982,"All disasters",142
+1982,"Drought",8
+1982,"Earthquake",14
+1982,"Extreme weather",51
+1982,"Flood",48
+1982,"Other",19
+1983,"All disasters",203
+1983,"Drought",34
+1983,"Earthquake",26
+1983,"Extreme weather",56
+1983,"Flood",48
+1983,"Other",28
+1984,"All disasters",140
+1984,"Drought",7
+1984,"Earthquake",13
+1984,"Extreme weather",53
+1984,"Flood",46
+1984,"Other",14
+1985,"All disasters",157
+1985,"Drought",4
+1985,"Earthquake",17
+1985,"Extreme weather",49
+1985,"Flood",57
+1985,"Other",18
+1986,"All disasters",145
+1986,"Drought",4
+1986,"Earthquake",21
+1986,"Extreme weather",53
+1986,"Flood",49
+1986,"Other",13
+1987,"All disasters",186
+1987,"Drought",19
+1987,"Earthquake",15
+1987,"Extreme weather",57
+1987,"Flood",66
+1987,"Other",22
+1988,"All disasters",200
+1988,"Drought",22
+1988,"Earthquake",15
+1988,"Extreme weather",60
+1988,"Flood",75
+1988,"Other",28
+1989,"All disasters",178
+1989,"Drought",17
+1989,"Earthquake",19
+1989,"Extreme weather",72
+1989,"Flood",44
+1989,"Other",24
+1990,"All disasters",308
+1990,"Drought",45
+1990,"Earthquake",41
+1990,"Extreme weather",135
+1990,"Flood",61
+1990,"Other",22
+1991,"All disasters",226
+1991,"Drought",16
+1991,"Earthquake",29
+1991,"Extreme weather",66
+1991,"Flood",76
+1991,"Other",31
+1992,"All disasters",211
+1992,"Drought",18
+1992,"Earthquake",25
+1992,"Extreme weather",76
+1992,"Flood",59
+1992,"Other",25
+1993,"All disasters",258
+1993,"Drought",9
+1993,"Earthquake",20
+1993,"Extreme weather",107
+1993,"Flood",84
+1993,"Other",36
+1994,"All disasters",248
+1994,"Drought",16
+1994,"Earthquake",25
+1994,"Extreme weather",80
+1994,"Flood",88
+1994,"Other",26
+1995,"All disasters",251
+1995,"Drought",8
+1995,"Earthquake",26
+1995,"Extreme weather",80
+1995,"Flood",96
+1995,"Other",34
+1996,"All disasters",233
+1996,"Drought",13
+1996,"Earthquake",13
+1996,"Extreme weather",76
+1996,"Flood",93
+1996,"Other",34
+1997,"All disasters",268
+1997,"Drought",23
+1997,"Earthquake",23
+1997,"Extreme weather",80
+1997,"Flood",97
+1997,"Other",30
+1998,"All disasters",296
+1998,"Drought",27
+1998,"Earthquake",30
+1998,"Extreme weather",88
+1998,"Flood",95
+1998,"Other",38
+1999,"All disasters",368
+1999,"Drought",55
+1999,"Earthquake",33
+1999,"Extreme weather",106
+1999,"Flood",122
+1999,"Other",31
+2000,"All disasters",420
+2000,"Drought",37
+2000,"Earthquake",30
+2000,"Extreme weather",102
+2000,"Flood",157
+2000,"Other",64
+2001,"All disasters",391
+2001,"Drought",34
+2001,"Earthquake",25
+2001,"Extreme weather",105
+2001,"Flood",158
+2001,"Other",54
+2002,"All disasters",428
+2002,"Drought",28
+2002,"Earthquake",37
+2002,"Extreme weather",124
+2002,"Flood",172
+2002,"Other",45
+2003,"All disasters",378
+2003,"Drought",22
+2003,"Earthquake",40
+2003,"Extreme weather",86
+2003,"Flood",164
+2003,"Other",52
+2004,"All disasters",354
+2004,"Drought",15
+2004,"Earthquake",42
+2004,"Extreme weather",124
+2004,"Flood",128
+2004,"Other",37
+2005,"All disasters",467
+2005,"Drought",30
+2005,"Earthquake",25
+2005,"Extreme weather",131
+2005,"Flood",197
+2005,"Other",70
+2006,"All disasters",393
+2006,"Drought",9
+2006,"Earthquake",24
+2006,"Extreme weather",76
+2006,"Flood",228
+2006,"Other",47
+2007,"All disasters",428
+2007,"Drought",16
+2007,"Earthquake",21
+2007,"Extreme weather",104
+2007,"Flood",226
+2007,"Other",43
+2008,"All disasters",384
+2008,"Drought",30
+2008,"Earthquake",23
+2008,"Extreme weather",112
+2008,"Flood",173
+2008,"Other",41
+2009,"All disasters",360
+2009,"Drought",28
+2009,"Earthquake",22
+2009,"Extreme weather",87
+2009,"Flood",156
+2009,"Other",58
+2010,"All disasters",415
+2010,"Drought",30
+2010,"Earthquake",24
+2010,"Extreme weather",97
+2010,"Flood",188
+2010,"Other",69
+2011,"All disasters",348
+2011,"Drought",25
+2011,"Earthquake",30
+2011,"Extreme weather",84
+2011,"Flood",161
+2011,"Other",39
+2012,"All disasters",353
+2012,"Drought",22
+2012,"Earthquake",27
+2012,"Extreme weather",91
+2012,"Flood",137
+2012,"Other",70
+2013,"All disasters",340
+2013,"Drought",15
+2013,"Earthquake",29
+2013,"Extreme weather",105
+2013,"Flood",151
+2013,"Other",30
+2014,"All disasters",346
+2014,"Drought",34
+2014,"Earthquake",26
+2014,"Extreme weather",99
+2014,"Flood",142
+2014,"Other",41
+2015,"All disasters",411
+2015,"Drought",47
+2015,"Earthquake",23
+2015,"Extreme weather",121
+2015,"Flood",166
+2015,"Other",41
+2016,"All disasters",336
+2016,"Drought",22
+2016,"Earthquake",30
+2016,"Extreme weather",87
+2016,"Flood",161
+2016,"Other",26
+2017,"All disasters",350
+2017,"Drought",17
+2017,"Earthquake",22
+2017,"Extreme weather",131
+2017,"Flood",127
+2017,"Other",38
+2018,"All disasters",336
+2018,"Drought",30
+2018,"Earthquake",20
+2018,"Extreme weather",96
+2018,"Flood",128
+2018,"Other",52
+2019,"All disasters",409
+2019,"Drought",21
+2019,"Earthquake",31
+2019,"Extreme weather",91
+2019,"Flood",200
+2019,"Other",51
+2020,"All disasters",399
+2020,"Drought",16
+2020,"Earthquake",16
+2020,"Extreme weather",128
+2020,"Flood",202
+2020,"Other",28
+2021,"All disasters",447
+2021,"Drought",28
+2021,"Earthquake",28
+2021,"Extreme weather",119
+2021,"Flood",226
+2021,"Other",26
+2022,"All disasters",323
+2022,"Drought",13
+2022,"Earthquake",28
+2022,"Extreme weather",96
+2022,"Flood",149
+2022,"Other",23
